@@ -1,0 +1,34 @@
+[2025-08-10 08:50:19] [INFO] Admin login successful: admin
+[2025-08-10 08:52:45] [INFO] Failed user login attempt: admin@edupool.com
+[2025-08-10 08:52:57] [INFO] Failed user login attempt: admin@edupool.com
+[2025-08-10 08:53:42] [INFO] User login successful: demo
+[2025-08-10 11:34:46] [INFO] Failed user login attempt: admin
+[2025-08-10 11:34:56] [INFO] Failed user login attempt: admin
+[2025-08-10 11:36:01] [INFO] User registration successful: hello1
+[2025-08-10 11:58:34] [INFO] Failed user login attempt: admin
+[2025-08-10 12:02:55] [INFO] Failed user login attempt: admin
+[2025-08-10 12:03:03] [INFO] Failed user login attempt: admin
+[2025-08-10 12:12:31] [INFO] Failed user login attempt: admin
+[2025-08-10 12:17:28] [INFO] Admin login successful: admin
+[2025-08-10 12:19:05] [INFO] Admin login successful: admin
+[2025-08-10 12:25:55] [INFO] University added: saurav university
+[2025-08-10 12:28:46] [INFO] University deleted: ID 2
+[2025-08-10 12:28:52] [INFO] University deleted: ID 6
+[2025-08-10 12:28:56] [INFO] University deleted: ID 4
+[2025-08-10 12:30:07] [INFO] University updated: Tribhuvan University
+[2025-08-10 12:31:35] [INFO] University updated: Pokhara University
+[2025-08-10 12:32:27] [INFO] University updated: Kathmandu University
+[2025-08-10 18:20:04] [INFO] University added: hhh uni
+[2025-08-10 18:21:43] [INFO] College added: hhhhhhh college
+[2025-08-10 18:34:02] [INFO] Course added: bit
+[2025-08-10 18:37:48] [INFO] Course added: BCA (Bachelor of Application)
+[2025-08-10 18:43:59] [INFO] Course added: BCA (Bachelor of Application)
+[2025-08-11 03:15:53] [INFO] Failed user login attempt: demo
+[2025-08-11 03:16:18] [INFO] User login successful: demo
+[2025-08-11 03:17:11] [INFO] Admin login successful: admin
+[2025-08-11 03:18:07] [INFO] User deleted: ID 2
+[2025-08-11 03:27:07] [INFO] College deleted: ID 2
+[2025-08-11 03:27:23] [INFO] College deleted: ID 3
+[2025-08-11 03:28:06] [INFO] College updated: Kathmandu University School of Engineering
+[2025-08-11 03:33:21] [INFO] College added: saurav college of information technology
+[2025-08-11 05:29:25] [INFO] Admin login successful: admin
